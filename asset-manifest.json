@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/IndyWiseReactApp/static/js/main.338e1511.chunk.js",
+    "main.js.map": "/IndyWiseReactApp/static/js/main.338e1511.chunk.js.map",
+    "runtime-main.js": "/IndyWiseReactApp/static/js/runtime-main.5c43dbe6.js",
+    "runtime-main.js.map": "/IndyWiseReactApp/static/js/runtime-main.5c43dbe6.js.map",
+    "static/js/2.603304f6.chunk.js": "/IndyWiseReactApp/static/js/2.603304f6.chunk.js",
+    "static/js/2.603304f6.chunk.js.map": "/IndyWiseReactApp/static/js/2.603304f6.chunk.js.map",
+    "index.html": "/IndyWiseReactApp/index.html",
+    "precache-manifest.b2c8ca5e50587021642b4a98c382c228.js": "/IndyWiseReactApp/precache-manifest.b2c8ca5e50587021642b4a98c382c228.js",
+    "service-worker.js": "/IndyWiseReactApp/service-worker.js",
+    "static/js/2.603304f6.chunk.js.LICENSE.txt": "/IndyWiseReactApp/static/js/2.603304f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c43dbe6.js",
+    "static/js/2.603304f6.chunk.js",
+    "static/js/main.338e1511.chunk.js"
+  ]
+}
